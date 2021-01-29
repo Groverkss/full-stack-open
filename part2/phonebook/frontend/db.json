@@ -1,0 +1,97 @@
+{
+  "job": [
+    {
+      "title": "Software Intern",
+      "applications": "100",
+      "positions": "10",
+      "deadline": "2021-02-04T14:00",
+      "type": "Full-Time",
+      "salary": "1000",
+      "duration": "5",
+      "skills": [
+        "Python",
+        "Django",
+        "Determination"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Marketing Intern",
+      "applications": "50",
+      "positions": "5",
+      "deadline": "2021-01-23T21:00",
+      "type": "Work-From-Home",
+      "salary": "500",
+      "duration": "4",
+      "skills": [
+        "Marketing",
+        "Excel",
+        "Python"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Software Engineer",
+      "applications": "120",
+      "positions": "6",
+      "deadline": "2021-01-26T09:00",
+      "type": "Work-From-Home",
+      "salary": "600",
+      "duration": 0,
+      "skills": [
+        "NodeJS",
+        "Express",
+        "MongoDB",
+        "React"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Front End Developer",
+      "applications": "80",
+      "positions": "1",
+      "deadline": "2021-01-27T18:00",
+      "type": "Full-Time",
+      "salary": "400",
+      "duration": 0,
+      "skills": [
+        "React",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "SCSS"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Clerk",
+      "applications": "50",
+      "positions": "3",
+      "deadline": "2021-01-25T19:00",
+      "type": "Part-Time",
+      "salary": "200",
+      "duration": "3",
+      "skills": [
+        "Excel",
+        "Basic Math"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Quantum Research Intern",
+      "applications": "10",
+      "positions": "1",
+      "deadline": "2021-01-26T17:00",
+      "type": "Part-Time",
+      "salary": "700",
+      "duration": 0,
+      "skills": [
+        "Quantum Mechanics",
+        "Math",
+        "Python",
+        "Information Theory"
+      ],
+      "id": 6
+    }
+  ]
+}
